@@ -9,7 +9,7 @@
 - [Arthur Ferreira](https://github.com/ArchangelLoer)
 - [Enzo Amorim](https://github.com/ENZOBRS)
 - Gustavo Veloso  
-- Pedro Henrique  
+- [Pedro Henrique](https://github.com/Pedrohcs13)  
 
 ## 📝 ODS associada
 **ODS 3 – Saúde e Bem-estar:** promove acesso a informações confiáveis sobre vacinação, contribuindo para a proteção da população e a prevenção de doenças.
