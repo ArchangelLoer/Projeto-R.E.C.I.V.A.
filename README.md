@@ -18,9 +18,8 @@
 O Trello do projeto pode ser acessado aqui:  
 [Trello R.E.C.I.V.A](https://trello.com/invite/b/68bf2a668986ef0ee21f37c8/ATTI4038979d588ed85549663fec47b5937b86FF9505/reciva)
 
-<p align="center"> 
-  <img width="1600" height="760" alt="image" src="https://github.com/user-attachments/assets/d637fce2-15bf-4bee-8c8a-bb85e29494f7" />
-</p>
+<img width="1860" height="776" alt="image" src="https://github.com/user-attachments/assets/51dab718-41be-48c0-9ec3-9c512c5608eb" />
+
 
 
 
