@@ -5,7 +5,7 @@
 **R.E.C.I.V.A** (Registro Eletrônico de COVID-19 e Imunização, Validação e Atualização) é um sistema digital que registra, monitora e valida a vacinação contra a COVID-19 em Recife, garantindo que os dados das pessoas vacinadas estejam corretos e atualizados em tempo real. Facilita o acompanhamento de doses aplicadas, suporte ao planejamento de campanhas de vacinação e tomada de decisões de saúde pública.
 
 ## ⚙️ Equipe
-- [Andrews Queiroz](https://github.com/Balastorr)  
+- [Andrews Queiroz](https://github.com/4ndrewss)  
 - [Arthur Ferreira](https://github.com/ArchangelLoer)
 - [Enzo Amorim](https://github.com/ENZOBRS)
 - Gustavo Veloso  
