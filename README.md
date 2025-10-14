@@ -18,7 +18,7 @@
 O Trello do projeto pode ser acessado aqui:  
 [Trello R.E.C.I.V.A](https://trello.com/invite/b/68bf2a668986ef0ee21f37c8/ATTI4038979d588ed85549663fec47b5937b86FF9505/reciva)
 
-<img width="1860" height="776" alt="image" src="https://github.com/user-attachments/assets/81b09e29-c022-4ccb-9a1d-4ad3ee9194e8" />
+<img width="1860" height="776" alt="image" src="https://github.com/user-attachments/assets/713e4f86-f9f8-4d7d-9b15-7959311052c0" />
 
 ## 🎨 Protótipos e Sketches
 Todos os *Sketches e Diagramas das Histórias de Usuário (H1 a H10)* estão disponíveis na pasta abaixo:
@@ -32,4 +32,10 @@ Todos os *Sketches e Diagramas das Histórias de Usuário (H1 a H10)* estão dis
 ## 🧠 Protótipo no Figma
 Acesse o design completo do aplicativo:  
 🎨 [*Figma – Protótipo R.E.C.I.V.A*](https://www.figma.com/design/KvYLXftTZRsL4tAPLq8a6k/R.E.C.I.V.A.?node-id=0-1&t=JS3v2iQHZIeAdpFI-1)
+
+## 🎥 Vídeo do Projeto
+Assista à demonstração final do sistema no YouTube:  
+[📺 Link do Vídeo](https://youtu.be/orwTPYinUDY)
+
+
 
